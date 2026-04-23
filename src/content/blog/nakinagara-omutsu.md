@@ -2,7 +2,7 @@
 title: '泣きながらおむつを替えた夜がある。'
 description: '介護福祉士から看護師へ。祖母の介護から始まった私のキャリアの原点と、遠回りが全部武器になった話。'
 pubDate: '2026-04-23'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ---
 
 私はおばあちゃん子だった。幼い頃からずっと一緒にいた祖母が、認知症になった。
