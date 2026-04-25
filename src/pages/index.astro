@@ -6,43 +6,256 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ja">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			/* ======= リセット & ベース ======= */
+			main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+
+			/* ======= ヒーローセクション ======= */
+			.hero {
+				background: linear-gradient(160deg, #FFF5E6 0%, #FFE0B2 60%, #FFCCAA 100%);
+				padding: 5em 1.5em 4em;
+				text-align: center;
+				position: relative;
+				overflow: hidden;
+			}
+			/* 背景の装飾円 */
+			.hero::before {
+				content: '';
+				position: absolute;
+				top: -80px;
+				right: -80px;
+				width: 300px;
+				height: 300px;
+				border-radius: 50%;
+				background: radial-gradient(circle, rgba(255,200,140,0.35) 0%, transparent 70%);
+				pointer-events: none;
+			}
+			.hero::after {
+				content: '';
+				position: absolute;
+				bottom: -60px;
+				left: -60px;
+				width: 240px;
+				height: 240px;
+				border-radius: 50%;
+				background: radial-gradient(circle, rgba(255,180,100,0.25) 0%, transparent 70%);
+				pointer-events: none;
+			}
+
+			.hero-inner {
+				position: relative;
+				max-width: 680px;
+				margin: 0 auto;
+			}
+
+			/* アイコン */
+			.hero-icon {
+				font-size: 3em;
+				margin-bottom: 0.4em;
+				line-height: 1;
+			}
+
+			/* サイトタイトル */
+			.hero-title {
+				font-size: clamp(1.8em, 5vw, 2.8em);
+				font-weight: bold;
+				color: #6B3A1F;
+				margin: 0 0 0.4em;
+				line-height: 1.2;
+				letter-spacing: 0.03em;
+			}
+
+			/* キャッチコピー */
+			.hero-catchcopy {
+				display: inline-block;
+				font-size: clamp(0.95em, 2.5vw, 1.2em);
+				color: #C05010;
+				font-weight: bold;
+				background: rgba(255,255,255,0.55);
+				border: 1.5px solid rgba(224,130,60,0.35);
+				border-radius: 30px;
+				padding: 0.4em 1.4em;
+				margin-bottom: 1.4em;
+				letter-spacing: 0.05em;
+			}
+
+			/* 自己紹介文 */
+			.hero-description {
+				font-size: clamp(0.88em, 2vw, 1em);
+				color: #5A3010;
+				line-height: 1.9;
+				margin-bottom: 2em;
+				text-align: left;
+				background: rgba(255,255,255,0.5);
+				border-radius: 12px;
+				padding: 1.2em 1.5em;
+				border: 1px solid rgba(224,150,80,0.25);
+			}
+
+			/* ボタンエリア */
+			.hero-buttons {
+				display: flex;
+				gap: 1em;
+				justify-content: center;
+				flex-wrap: wrap;
+			}
+			.btn-primary {
+				display: inline-block;
+				background: linear-gradient(135deg, #E8925A, #C06030);
+				color: #fff;
+				text-decoration: none;
+				padding: 0.75em 2em;
+				border-radius: 30px;
+				font-weight: bold;
+				font-size: 0.95em;
+				letter-spacing: 0.05em;
+				box-shadow: 0 4px 14px rgba(200,90,30,0.3);
+				transition: transform 0.15s, box-shadow 0.15s;
+			}
+			.btn-primary:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 6px 18px rgba(200,90,30,0.38);
+				color: #fff;
+			}
+			.btn-secondary {
+				display: inline-block;
+				background: rgba(255,255,255,0.75);
+				color: #C06030;
+				text-decoration: none;
+				padding: 0.75em 2em;
+				border-radius: 30px;
+				font-weight: bold;
+				font-size: 0.95em;
+				letter-spacing: 0.05em;
+				border: 1.5px solid #E8925A;
+				box-shadow: 0 2px 8px rgba(200,120,60,0.12);
+				transition: transform 0.15s, box-shadow 0.15s, background 0.15s;
+			}
+			.btn-secondary:hover {
+				transform: translateY(-2px);
+				background: rgba(255,255,255,0.95);
+				box-shadow: 0 4px 14px rgba(200,120,60,0.2);
+				color: #C06030;
+			}
+
+			/* ======= テーマセクション ======= */
+			.themes {
+				background: #FFFAF4;
+				padding: 3.5em 1.5em;
+			}
+			.themes-inner {
+				max-width: 720px;
+				margin: 0 auto;
+			}
+			.section-heading {
+				text-align: center;
+				font-size: 1em;
+				font-weight: bold;
+				color: #E8925A;
+				letter-spacing: 0.12em;
+				margin-bottom: 1.8em;
+			}
+			.section-heading::before,
+			.section-heading::after {
+				content: '── ';
+				opacity: 0.5;
+			}
+			.theme-cards {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+				gap: 1em;
+			}
+			.theme-card {
+				background: linear-gradient(135deg, #FFF9F2, #FFF0E0);
+				border: 1px solid #F5D9B8;
+				border-radius: 14px;
+				padding: 1.4em 1.2em;
+				text-align: center;
+				box-shadow: 0 2px 8px rgba(200,120,60,0.07);
+			}
+			.theme-card .icon {
+				font-size: 1.8em;
+				margin-bottom: 0.5em;
+			}
+			.theme-card .label {
+				font-size: 0.85em;
+				font-weight: bold;
+				color: #6B3A1F;
+				line-height: 1.5;
+			}
+
+			/* ======= レスポンシブ ======= */
+			@media (max-width: 520px) {
+				.hero {
+					padding: 3.5em 1.2em 3em;
+				}
+				.hero-buttons {
+					flex-direction: column;
+					align-items: center;
+				}
+				.btn-primary,
+				.btn-secondary {
+					width: 100%;
+					max-width: 280px;
+					text-align: center;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+
+			<!-- ヒーローセクション -->
+			<section class="hero">
+				<div class="hero-inner">
+					<div class="hero-icon">🏥</div>
+					<h1 class="hero-title">介護ナースのリアル</h1>
+					<span class="hero-catchcopy">「知らなかっただけで、諦めなくていい」</span>
+					<p class="hero-description">
+						介護福祉士から看護師になった精神科ナースが、介護・看護のリアルな現場情報をお届けします。<br />
+						介護士から看護師を目指す方、転職を考えている看護師・介護士の方に向けて、現場の本音を書いています。
+					</p>
+					<div class="hero-buttons">
+						<a href="/blog" class="btn-primary">ブログを読む</a>
+						<a href="/about" class="btn-secondary">プロフィールを見る</a>
+					</div>
+				</div>
+			</section>
+
+			<!-- こんな方へセクション -->
+			<section class="themes">
+				<div class="themes-inner">
+					<p class="section-heading">こんな方へ</p>
+					<div class="theme-cards">
+						<div class="theme-card">
+							<div class="icon">🚶</div>
+							<div class="label">介護士から<br />看護師を目指す方</div>
+						</div>
+						<div class="theme-card">
+							<div class="icon">📖</div>
+							<div class="label">准看から正看を<br />目指している方</div>
+						</div>
+						<div class="theme-card">
+							<div class="icon">🧠</div>
+							<div class="label">精神科に<br />興味がある方</div>
+						</div>
+						<div class="theme-card">
+							<div class="icon">🔄</div>
+							<div class="label">転職を考えている<br />看護師・介護士</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 		</main>
 		<Footer />
 	</body>
