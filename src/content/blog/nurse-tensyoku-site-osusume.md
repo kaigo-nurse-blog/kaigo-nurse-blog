@@ -131,6 +131,11 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 
 病院以外の求人が充実しているのが特徴です。介護施設・訪問看護・企業など、「病院以外の働き方」を探している方に特に向いています。介護経験を持つ看護師が「介護と看護の両方を活かせる職場」を探すときにも使いやすいサービスです。
 
+▼ナースJJで転職先の口コミをチェックする
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
+
 ### ③ ナース専科転職（旧ナース人材バンク）
 
 **こんな人におすすめ**
