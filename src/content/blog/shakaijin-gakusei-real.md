@@ -104,3 +104,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 今まさに、仕事や家庭のことを抱えながら看護学校を目指しているあなたへ。
 
 学生という立場は、思っているより融通が利きます。そして、大変な時期ほど、人は意外と強くなれます。
+
+---
+
+## 関連記事
+- [介護士が准看護師学校に通ったときのお金の話](/blog/junkan-okane-hanashi)
+- [介護士が看護師になるための学費と給付金](/blog/kaigo-nurse-gakuhi-kyufukin)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

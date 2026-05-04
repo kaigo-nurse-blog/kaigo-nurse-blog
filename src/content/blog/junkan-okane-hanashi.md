@@ -150,3 +150,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - 年金は3号被保険者か学生納付特例か、自分の状況に合わせて選ぶ
 - 追納は10年以内（2年超えると加算金あり）
 - 制度を知っているかどうかで、人生は変わる
+
+---
+
+## 関連記事
+- [介護士が看護師になるための学費と給付金](/blog/kaigo-nurse-gakuhi-kyufukin)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

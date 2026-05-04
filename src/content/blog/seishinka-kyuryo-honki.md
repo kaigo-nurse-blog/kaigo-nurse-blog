@@ -120,3 +120,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - 公立・県立の精神科病院では待遇が良いケースもある
 - 給料だけでなく、残業・休日・福利厚生を含めたトータルで判断することが大切
 - 転職という選択肢は、いつでも持っておいていい
+
+---
+
+## 関連記事
+- [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
+- [精神科病院への転職](/blog/seishinka-tensyoku-process)
+- [精神科看護師の仕事、正直どうですか？](/blog/seishinka-nurse-honki)

@@ -82,3 +82,11 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 かつて一般科で尊敬していた先輩は「私、絶対精神科は無理！」と公言していた。でも、そういう先輩が精神科で意外と活躍することもある。人は変われる。環境が人を育てることもある。
 
 少しでも興味があるなら、飛び込んでみてほしい。「どんなものか知らない」だけなら、知ればいい。かつての私がそうだったように。
+
+---
+
+## 関連記事
+- [精神科看護師の仕事、正直どうですか？](/blog/seishinka-nurse-honki)
+- [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
+- [精神科看護師の給料はいくら？](/blog/seishinka-kyuryo-honki)
+- [精神科病院への転職](/blog/seishinka-tensyoku-process)

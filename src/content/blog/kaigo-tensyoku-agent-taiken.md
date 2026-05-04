@@ -109,3 +109,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - 転職「活動」自体にリスクはない
 - どちらに転んでもメリットがある
 - 「いつでも転職できる」という気持ちが、精神的な余裕につながる
+
+---
+
+## 関連記事
+- [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

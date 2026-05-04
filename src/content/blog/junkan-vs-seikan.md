@@ -62,3 +62,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 10年後のあなたが、今のあなたに何と言うだろうか。「あの時動いて良かった」か、「あの時動けば良かった」か。その答えは、今日の選択が決める。
 
 かつての私がそうだったように、一歩を踏み出せば、景色は変わる。
+
+---
+
+## 関連記事
+- [介護士が看護師を目指す前に知っておくべきこと](/blog/kaigo-kara-kangoshi)
+- [介護士が看護師になるための学費と給付金](/blog/kaigo-nurse-gakuhi-kyufukin)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

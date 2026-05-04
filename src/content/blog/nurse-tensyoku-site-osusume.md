@@ -184,3 +184,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 だからこそ、もし転職先で働いている知人や友人がいれば、その人の生の声を大切にしてください。転職サイトの情報と、リアルな口コミを組み合わせるのが、後悔しない転職への近道だと思います。
 
 あなたの転職が、自分らしい働き方につながりますように。
+
+---
+
+## 関連記事
+- [精神科病院への転職](/blog/seishinka-tensyoku-process)
+- [精神科看護師の給料はいくら？](/blog/seishinka-kyuryo-honki)

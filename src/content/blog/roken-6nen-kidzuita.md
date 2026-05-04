@@ -114,3 +114,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 医療・福祉・リハビリ・生活支援・コミュニケーション。様々な要素が絡み合って、一人の人の生活を支える。
 
 そういう意味において、老健は特におすすめできる職場です。
+
+---
+
+## 関連記事
+- [介護士が看護師になって気づいた介護の価値](/blog/kaigo-kachi-kizuita)
+- [泣きながらおむつを替えた夜がある](/blog/nakinagara-omutsu)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

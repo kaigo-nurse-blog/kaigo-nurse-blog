@@ -281,3 +281,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 「知らなかっただけで、諦めなくていい」
 
 まず一歩、ハローワークか学校に相談してみてください。
+
+---
+
+## 関連記事
+- [介護士が准看護師学校に通ったときのお金の話](/blog/junkan-okane-hanashi)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)

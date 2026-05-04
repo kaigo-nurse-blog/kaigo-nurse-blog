@@ -123,3 +123,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - 見学時はスタッフの挨拶や雰囲気を観察しましょう
 - 面接には給与明細と源泉徴収票を持参しましょう
 - 今のスキルは必ず新しい職場で活きます
+
+---
+
+## 関連記事
+- [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
+- [精神科看護師の給料はいくら？](/blog/seishinka-kyuryo-honki)

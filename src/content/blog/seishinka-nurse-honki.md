@@ -86,3 +86,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 迷っているなら、まず一歩踏み出してみてほしい。いつでも辞めることはできるのだから。
 
 かつての私がそうだったように、飛び込んでみれば、想像と違う景色が待っているかもしれない。
+
+---
+
+## 関連記事
+- [精神科看護師に向いている人・向いていない人](/blog/seishinka-mukinuki)
+- [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
+- [精神科看護師の給料はいくら？](/blog/seishinka-kyuryo-honki)

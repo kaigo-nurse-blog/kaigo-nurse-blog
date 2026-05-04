@@ -98,3 +98,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 まず、ハローワークに行ってみてほしい。近くの養成校を調べてみてほしい。職場の看護師に話しかけてみてほしい。
 
 一歩踏み出せば、道は見えてくる。かつての私がそうだったように。
+
+---
+
+## 関連記事
+- [准看護師と正看護師、どちらを選ぶべきか](/blog/junkan-vs-seikan)
+- [介護士が看護師になるための学費と給付金](/blog/kaigo-nurse-gakuhi-kyufukin)
+- [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)
