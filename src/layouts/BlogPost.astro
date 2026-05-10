@@ -6,9 +6,12 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & {
+	headings?: { depth: number; slug: string; text: string }[];
+};
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, headings = [] } = Astro.props;
+const h2Headings = headings.filter((h) => h.depth === 2);
 ---
 
 <html lang="en">
@@ -52,6 +55,45 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+			/* 目次 */
+			.toc {
+				background-color: #FDF0E0;
+				border: 2px solid #C4622D;
+				border-radius: 8px;
+				padding: 1.2em 1.5em;
+				margin: 1.5em 0 2em;
+			}
+			.toc-title {
+				font-size: 1rem;
+				font-weight: 700;
+				color: #3D1F0D;
+				margin: 0 0 0.75em 0;
+				display: flex;
+				align-items: center;
+				gap: 0.4em;
+			}
+			.toc-title::before {
+				content: '≡';
+				font-size: 1.1em;
+				color: #C4622D;
+			}
+			.toc ol {
+				margin: 0;
+				padding-left: 1.4em;
+			}
+			.toc li {
+				margin: 0.35em 0;
+				line-height: 1.5;
+			}
+			.toc a {
+				color: #C4622D;
+				text-decoration: none;
+				font-size: 0.95rem;
+			}
+			.toc a:hover {
+				color: #A0501E;
+				text-decoration: underline;
+			}
 		</style>
 	</head>
 
@@ -77,6 +119,18 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<h1>{title}</h1>
 						<hr />
 					</div>
+					{h2Headings.length > 1 && (
+						<nav class="toc" aria-label="目次">
+							<p class="toc-title">目次</p>
+							<ol>
+								{h2Headings.map((h) => (
+									<li>
+										<a href={`#${h.slug}`}>{h.text}</a>
+									</li>
+								))}
+							</ol>
+						</nav>
+					)}
 					<slot />
 				</div>
 			</article>
