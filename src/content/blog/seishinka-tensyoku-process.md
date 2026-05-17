@@ -37,6 +37,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 
 また、その病院に勤務経験のある友人から「定時で帰れる」という話を聞いていたことも、応募を決めた大きな理由でした。転職サイトの情報よりも、実際に働いたことのある人の口コミは、何よりも信頼できる情報だと改めて感じました。
 
+転職サイトのエージェントを使う方法もあります。条件交渉を代わりにやってもらえたり、非公開求人を紹介してもらえたりするメリットがあります。登録だけでも、求人の相場観がつかめますよ。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
+
 ---
 
 ## 給与はトータルで比較した【部分で見ると判断を誤る】
@@ -112,6 +116,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 今の職場で「自分は大したことない」と思っていても、精神科に来ると予想以上に頼りにされます。今苦労していることは、絶対に無駄になりません。
 
 精神科以外への転職を考えている方にも言えることです。今の職場で培ったスキルは、新しい職場でも必ず活きます。必要な知識があれば、新しい職場で学べばいいのです。何とかなります。
+
+一人で転職活動を進めるのが不安な方は、転職エージェントに相談するのも手です。給与明細を持って交渉する前の情報収集にも使えます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
 
 ---
 
