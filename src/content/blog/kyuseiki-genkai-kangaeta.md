@@ -115,6 +115,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 
 感情で方向を決めて、数字で条件を確認する。
 
+転職先の給与水準や求人条件を調べるなら、転職サイトを使うのが手っ取り早いです。登録だけでも、相場感がつかめます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
+
 あの日、返済完了の証明書を手にした私がしたことは、結局それだった。
 
 ## まとめ
