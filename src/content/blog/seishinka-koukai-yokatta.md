@@ -102,6 +102,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 
 ## 急性期からの転職を迷っているナースへ
 
+もし転職を具体的に考えるなら、求人の相場を知っておくことが最初の一歩になる。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
+
 急性期と精神科は、タイプがまるで違う。
 
 急性期は濁流だ。勢いよく押し寄せてくる流れに翻弄されながら、それでも前に進んでいく。忙しいが、充実している。
