@@ -101,6 +101,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ※1 1年目のため夏のボーナスなし
 ※2 残業・夜勤フルの数字。額面ベースでは約487万円
 
+実際に看護師求人の給与水準を確認してみたい方は、転職サイトで相場を調べてみるのも一つの手です。登録するだけでも、地域ごとの給与水準や条件の違いが見えてきます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" rel="nofollow">看護師転職サイト『ナースJJ』</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THS+1B19KI+2YJA+BXB8Y" alt="">
+
 長期で見れば、確実に上がりました。ただし、1年目は下がります。学校に通っている間は収入が減ります。道中は平坦ではありません。
 
 それでも、私は看護師になってよかったと思っています。
