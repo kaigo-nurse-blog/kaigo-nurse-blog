@@ -1,8 +1,8 @@
 ---
 title: "精神科転職で失敗する人の特徴【急性期出身ナースが感じたこと】"
 description: "精神科転職で失敗する人には共通のパターンがある。急性期から精神科に転職した現役ナースが、現場で見てきた失敗パターンと向いている人の特徴を正直に語ります。"
-pubDate: 2026-05-24
-heroImage: "@assets/kaigo-nurse-thumbnail.jpg"
+pubDate: '2026-05-24'
+heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ---
 
 精神科転職＝失敗、ではありません。

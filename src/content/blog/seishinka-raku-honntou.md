@@ -1,8 +1,8 @@
 ---
 title: "精神科看護師は楽って本当？【急性期から転職した私が感じた現実】"
 description: "精神科看護師は楽というイメージは本当なのか。急性期から精神科に転職した現役ナースが、身体的な楽さ・違う種類のしんどさ・急性期経験が武器になる場面を正直に語ります。"
-pubDate: 2026-05-23
-heroImage: "@assets/kaigo-nurse-thumbnail.jpg"
+pubDate: '2026-05-23'
+heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ---
 
 「終業5分前にはみんな手洗いして帰る準備できてるよ」
