@@ -4,6 +4,11 @@ const today = new Date();
 
 <footer>
 	&copy; 2026 介護ナースのリアル
+	<div class="footer-links">
+		<a href="/contact">お問い合わせ</a>
+		<span>｜</span>
+		<a href="/privacy-policy">プライバシーポリシー</a>
+	</div>
 	<div class="social-links">
 		<a href="" target="_blank">
 			<span class="sr-only">Xをフォロー</span>
@@ -22,6 +27,21 @@ const today = new Date();
 		background: linear-gradient(var(--gray-gradient)) no-repeat;
 		color: rgb(var(--gray));
 		text-align: center;
+	}
+	.footer-links {
+		margin-top: 0.8em;
+		font-size: 0.85em;
+	}
+	.footer-links a {
+		color: rgb(var(--gray));
+		text-decoration: none;
+	}
+	.footer-links a:hover {
+		color: rgb(var(--gray-dark));
+		text-decoration: underline;
+	}
+	.footer-links span {
+		margin: 0 0.3em;
 	}
 	.social-links {
 		display: flex;
