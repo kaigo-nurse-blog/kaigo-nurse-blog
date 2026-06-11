@@ -109,4 +109,14 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 
 一人で抱え込まなくていい。話すだけでも、気持ちが整理されることがあります。
 
+もし、誰に話せばいいかわからないなら、転職するかどうかは別にして、看護師の事情をわかっている人に聞いてもらう方法もあります。
+
 [ナースJJに相談してみる](https://www.nursejj.com/)
+
+---
+
+## 関連記事
+
+- [急性期を辞めたかった。それでも辞められなかった理由【現役精神科看護師の本音】](/blog/kyuseiki-yametakata-yamerarenakatta/)
+- [子どもの寝顔しか見られなかった。それでも、あの日々を否定できない。](/blog/kyuseiki-seicho-shitakedo/)
+- [精神科への転職は逃げじゃないか——急性期で壊れかけた看護師が今思うこと](/blog/seishinka-nige-janai/)
