@@ -98,3 +98,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [看護師転職サイトおすすめ3選](/blog/nurse-tensyoku-site-osusume)
 - [精神科看護師の給料はいくら？](/blog/seishinka-kyuryo-honki)
 - [精神科病院への転職](/blog/seishinka-tensyoku-process)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)

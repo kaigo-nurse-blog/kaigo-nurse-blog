@@ -149,3 +149,9 @@ CVPPPの研修があるかどうか、夜勤の体制はどうか——こうし
 - [精神科看護師に向いている人・向いていない人](/blog/seishinka-mukinuki)
 - [精神科の夜勤リアル](/blog/seishinka-yakkin-real)
 - [精神科病院への転職](/blog/seishinka-tensyoku-process)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)

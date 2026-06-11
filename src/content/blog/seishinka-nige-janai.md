@@ -125,3 +125,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [急性期で限界を感じたとき、どう考えたか](/blog/kyuseiki-genkai-kangaeta)
 - [精神科に転職して後悔したこと・よかったこと](/blog/seishinka-koukai-yokatta)
 - [看護師が燃え尽きる前に](/blog/nurse-burnout-mae-ni)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)

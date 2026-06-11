@@ -111,3 +111,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [精神科に転職したプロセス全公開](/blog/seishinka-tensyoku-process)
 - [精神科看護師の仕事、正直どうですか？](/blog/seishinka-nurse-honki)
 - [精神科への転職は逃げじゃないか](/blog/seishinka-nige-janai)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)

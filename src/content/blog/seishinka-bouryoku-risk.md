@@ -153,3 +153,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [精神科の暴力が怖かった私がCVPPP研修で学んだこと](/blog/seishinka-cvppp-kenshu)
 - [精神科病院の種類と病棟タイプを解説](/blog/seishinka-byoin-shurui)
 - [精神科へ転職したプロセス全公開](/blog/seishinka-tensyoku-process)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)

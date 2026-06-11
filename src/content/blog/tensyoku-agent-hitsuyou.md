@@ -108,3 +108,9 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 転職するかどうかは、話を聞いてから決めればいいと思います。
 
 [ナースJJに相談してみる](https://www.nursejj.com/)
+
+---
+
+精神科転職に関する記事は、こちらのページに不安の種類別でまとめています。
+
+[精神科転職を考えているあなたへ【現役ナースが書いた記事まとめ】](/blog/seishinka-tensyoku-matome/)
