@@ -956,7 +956,8 @@
 【次回セッションでやること】
 ①精神科転職系まとめ記事の作成（完了済み：seishinka-tensyoku-matome.md・2026-06-11）
 　→逆方向の内部リンク（個別記事→まとめ記事）追加：完了済み（2026-06-11・全24記事）
-②インデックスリクエスト残り6本（seishinka-culture-shock, kyuseiki-futsuu-dattato-omotteita, tensyoku-agent-hitsuyou, tensyoku-uragiri-janai, kyuseiki-yametakata-yamerarenakatta, kyuseiki-seicho-shitakedo）
+②インデックスリクエスト残り6本（seishinka-culture-shock, kyuseiki-futsuu-dattato-omotteita, tensyoku-agent-hitsuyou, tensyoku-uragiri-janai, kyuseiki-yametakata-yamerarenakatta, kyuseiki-seicho-shitakedo）：完了済み（2026-06-11実施）
+　※まとめ記事（seishinka-tensyoku-matome）のインデックスリクエストも同日実施済み
 ③X投稿を毎日継続
 
 【リライト方針メモ】
