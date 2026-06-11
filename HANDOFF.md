@@ -1007,7 +1007,7 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'  # 相対パスで記述（@
 
 ## ■ アフィリエイト状況
 
-・ナースJJ：承認済み（報酬2万円）・導線挿入済み記事14本（nurse-tensyoku-site-osusume・seishinka-bouryoku-risk含む）
+・ナースJJ：承認済み（報酬2万円）・導線挿入済み記事28本（2026-06-11のPR表記追加作業で全件確認済み）
 ・レバウェル看護：3ヶ月後に再申請予定
 ・その他：審査中複数
 
