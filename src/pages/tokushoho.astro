@@ -1,0 +1,153 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead
+			title="特定商取引法に基づく表記 | 介護ナースのリアル"
+			description="介護ナースのリアルの特定商取引法に基づく表記ページです。"
+		/>
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+			}
+
+			.page-title {
+				text-align: center;
+				margin-bottom: 2.5em;
+			}
+			.page-title h1 {
+				font-size: 1.8em;
+				color: #7A4A2A;
+				margin-bottom: 0.3em;
+			}
+			.page-title .subtitle {
+				font-size: 0.85em;
+				color: #A06040;
+			}
+			.title-divider {
+				width: 50px;
+				height: 3px;
+				background: linear-gradient(to right, #E8925A, #FFD8A8);
+				margin: 0.8em auto 0;
+				border-radius: 2px;
+			}
+
+			.section {
+				margin-bottom: 2.5em;
+			}
+			.section h2 {
+				font-size: 1.05em;
+				color: #7A4A2A;
+				border-left: 4px solid #E8925A;
+				padding-left: 0.7em;
+				margin-bottom: 0.8em;
+			}
+			.section p {
+				font-size: 0.9em;
+				color: #4A3020;
+				line-height: 1.9;
+			}
+
+			.info-box {
+				background: linear-gradient(135deg, #FFF9F2, #FFF0E0);
+				border: 1px solid #F5D9B8;
+				border-radius: 12px;
+				padding: 1.4em 1.6em;
+				margin-bottom: 2.5em;
+			}
+			.info-box h2 {
+				font-size: 1em;
+				color: #7A4A2A;
+				margin-bottom: 0.8em;
+				border: none;
+				padding: 0;
+			}
+			.info-box table {
+				width: 100%;
+				border-collapse: collapse;
+				font-size: 0.88em;
+			}
+			.info-box td {
+				padding: 0.5em 0.8em;
+				color: #4A3020;
+				vertical-align: top;
+				border-bottom: 1px solid #F5D9B8;
+			}
+			.info-box td:first-child {
+				white-space: nowrap;
+				color: #A06040;
+				font-weight: bold;
+				width: 10em;
+			}
+			.info-box tr:last-child td {
+				border-bottom: none;
+			}
+			.info-box a {
+				color: #C05010;
+				word-break: break-all;
+			}
+
+			.last-updated {
+				text-align: right;
+				font-size: 0.8em;
+				color: #A06040;
+				margin-top: 3em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+
+			<div class="page-title">
+				<h1>特定商取引法に基づく表記</h1>
+				<p class="subtitle">Specified Commercial Transaction Act</p>
+				<div class="title-divider"></div>
+			</div>
+
+			<div class="info-box">
+				<h2>販売業者情報</h2>
+				<table>
+					<tr>
+						<td>販売業者</td>
+						<td>とおまわりナース</td>
+					</tr>
+					<tr>
+						<td>連絡先</td>
+						<td><a href="mailto:toomawari.nurse@gmail.com">toomawari.nurse@gmail.com</a></td>
+					</tr>
+					<tr>
+						<td>サイトURL</td>
+						<td><a href="https://kaigo-nurse.com" target="_blank" rel="noopener noreferrer">https://kaigo-nurse.com</a></td>
+					</tr>
+					<tr>
+						<td>運営内容</td>
+						<td>ブログ運営・アフィリエイト広告収益</td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="section">
+				<h2>アフィリエイト広告について</h2>
+				<p>
+					当サイトはアフィリエイトプログラムを利用しており、記事内に広告リンクを含む場合があります。広告収益はサイト運営・コンテンツ制作に使用しています。
+				</p>
+				<p>
+					広告リンクを含む記事には「※本記事にはPR（アフィリエイト広告）を含みます。」と明記しています。
+				</p>
+			</div>
+
+			<p class="last-updated">制定日：2026年6月11日</p>
+
+		</main>
+		<Footer />
+	</body>
+</html>
