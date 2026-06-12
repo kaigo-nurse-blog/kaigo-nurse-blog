@@ -113,3 +113,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [介護士が看護師を目指す前に知っておくべきこと](/blog/kaigo-kara-kangoshi)
 - [介護士が看護師になって気づいた介護の価値](/blog/kaigo-kachi-kizuita)
 - [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)
+
+
+---
+
+介護士から看護師を目指す方向けの記事は、こちらのページに悩みの種類別でまとめています。
+
+[介護士から看護師を目指すあなたへ【実際になった私が書いた記事まとめ】](/blog/kaigo-kara-kangoshi-matome/)

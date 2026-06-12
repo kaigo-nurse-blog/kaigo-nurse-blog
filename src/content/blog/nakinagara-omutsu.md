@@ -72,3 +72,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ## 関連記事
 - [老健で6年働いて気づいたこと](/blog/roken-6nen-kidzuita)
 - [介護士が看護師になって気づいた介護の価値](/blog/kaigo-kachi-kizuita)
+
+
+---
+
+介護士から看護師を目指す方向けの記事は、こちらのページに悩みの種類別でまとめています。
+
+[介護士から看護師を目指すあなたへ【実際になった私が書いた記事まとめ】](/blog/kaigo-kara-kangoshi-matome/)

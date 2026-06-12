@@ -287,3 +287,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 ## 関連記事
 - [介護士が准看護師学校に通ったときのお金の話](/blog/junkan-okane-hanashi)
 - [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)
+
+
+---
+
+介護士から看護師を目指す方向けの記事は、こちらのページに悩みの種類別でまとめています。
+
+[介護士から看護師を目指すあなたへ【実際になった私が書いた記事まとめ】](/blog/kaigo-kara-kangoshi-matome/)

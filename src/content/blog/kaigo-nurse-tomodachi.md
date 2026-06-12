@@ -147,3 +147,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [社会人学生のリアル【子どもが生まれた年に国家試験を受けた話】](/blog/shakaijin-gakusei-real)
 - [介護経験者が看護学校で有利なこと【現場を知っている強みと落とし穴】](/blog/kaigo-keiken-kango-gakko)
 - [40代で看護学校は遅い？40歳で臨床デビューした現役看護師が答えます](/blog/kango-school-nenrei)
+
+
+---
+
+介護士から看護師を目指す方向けの記事は、こちらのページに悩みの種類別でまとめています。
+
+[介護士から看護師を目指すあなたへ【実際になった私が書いた記事まとめ】](/blog/kaigo-kara-kangoshi-matome/)

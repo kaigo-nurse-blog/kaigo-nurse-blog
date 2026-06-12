@@ -105,3 +105,10 @@ heroImage: '../../assets/kaigo-nurse-thumbnail.jpg'
 - [准看護師と正看護師、どちらを選ぶべきか](/blog/junkan-vs-seikan)
 - [介護士が看護師になるための学費と給付金](/blog/kaigo-nurse-gakuhi-kyufukin)
 - [介護士が看護師になるまでの道のり](/blog/kaigo-kara-kangoshi-michinori)
+
+
+---
+
+介護士から看護師を目指す方向けの記事は、こちらのページに悩みの種類別でまとめています。
+
+[介護士から看護師を目指すあなたへ【実際になった私が書いた記事まとめ】](/blog/kaigo-kara-kangoshi-matome/)
