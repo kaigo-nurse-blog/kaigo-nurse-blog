@@ -1075,6 +1075,24 @@
 ⑥医療免責事項：プライバシーポリシーページに追記済み（2026-06-11）
 ⑦特定商取引法表記：tokushohoページ作成済み（2026-06-11・運営者：とおまわりナース・メールのみ開示・A方式）
 
+【HANDOFFプロジェクト差し替え手順カード】
+毎回のチャット終了前に以下の手順で実施する。
+
+①ブラウザで以下のURLを開く
+https://github.com/kaigo-nurse-blog/kaigo-nurse-blog/raw/main/HANDOFF.md
+
+②Ctrl+S（またはCmd+S）でファイルを保存
+
+③Claudeプロジェクトの右側「ファイル」から既存のHANDOFF.mdを削除
+
+④保存したファイルをアップロード
+
+以上で完了。迷ったらこのチャットで「HANDOFF差し替え手順を教えて」と聞けばすぐ出てくる。
+
+【Claude Code指示文テンプレート・定型末尾（全指示文に追加）】
+すべての作業完了後、以下のURLをチャットに表示してください。
+「HANDOFFダウンロードURL：https://github.com/kaigo-nurse-blog/kaigo-nurse-blog/raw/main/HANDOFF.md」
+
 ## ■ 記事ストックリスト（2026-06-24作成）
 
 ### Aグループ：優先度高・確実に書く
